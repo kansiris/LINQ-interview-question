@@ -27,7 +27,6 @@
 |1    | [What is PLINQ?](#What is PLINQ?)|
 |2 | [What is the function of the DISTINCT clause in a LINQ query?](#What is the function of the DISTINCT clause in a LINQ query?)|
 |3 | [What is the DataContext class and how is it related to LINQ?](#What is the DataContext class and how is it related to LINQ?)|
-
 |1    | [What is the difference between the Take and Skip clauses?](#What is the difference between the Take and Skip clauses?)|
 |2 | [What is Object Relational Designer (0/R Designer)?](#What is Object Relational Designer (0/R Designer)?)|
 |3 | [Which interface implements the standard query operators in LINQ?](#Which interface implements the standard query operators in LINQ?)|
@@ -40,7 +39,6 @@
 |1    | [What is a LinqDataSource control?](#What is a LinqDataSource control?)|
 |2 | [Explain how you can differentiate between Conversion Operator 'ToDictionary' and 'IEnumerable' of LINQ?](#Explain how you can differentiate between Conversion Operator 'ToDictionary' and 'IEnumerable' of LINQ?)|
 |3 | [What are the different implementations of LINQ?](#What are the different implementations of LINQ?)|
-
 |3 | [Which command-line tool generates code and mapping for the LINQ to SQL component of .NET Framework?](#Which command-line tool generates code and mapping for the LINQ to SQL component of .NET Framework?)|
 |1    | [What is the difference between the Select clause and SelectMany() method in LINQ?](#What is the difference between the Select clause and SelectMany() method in LINQ?)|
 |2 | [Which extension method do you need to run a parallel query in PLINQ?](#Which extension method do you need to run a parallel query in PLINQ?)|
